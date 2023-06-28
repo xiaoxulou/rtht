@@ -1,0 +1,61 @@
+
+#EXTINF:-1 tvg-id="BSTV.hk" status="online",耀才財經台 
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" status="online",Celestial Movies (Indonesian Subtitle) 
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="HKIBC.hk" status="online",HKIBC 
+https://live.astradamy.com/hk76/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" status="online",Phoenix Chinese Channel (鳳凰衛視中文)
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" status="online",Phoenix InfoNews Channel (鳳凰衛視資訊) (576p)
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" status="online",ViuTV 
+https://live.astradamy.com/viutv/index.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" status="online",ViuTVsix 
+https://live.astradamy.com/viutv6/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",RTHK (港台電視33) 
+https://live.astradamy.com/hk33/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",TVB Pearl (珍珠台) (720p)
+https://live.astradamy.com/tvbpearl/index.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 ,澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+#EXTINF:-1 ,澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1 ,澳门莲花
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 ,大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+EXTINF:-1 ,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 ,点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+
+
+#EXTINF:-1 ,东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+
+
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 ,香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 ,新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 ,亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+
+

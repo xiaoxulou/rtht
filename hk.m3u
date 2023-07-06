@@ -1,0 +1,214 @@
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="港澳台",纬来体育
+http://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="http://www.stream-link.org/tv_logo/ebc-news.png" group-title="港澳台",东森新闻
+http://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="http://www.stream-link.org/tv_logo/ebc-finance.png" group-title="港澳台",东森财经新闻
+http://sc2022.stream-link.org/tv2306.php?id=t02
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://www.stream-link.org/tv_logo/cti-news.png" group-title="港澳台",中天新闻
+http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="http://www.stream-link.org/tv_logo/cts-news.png" group-title="港澳台",华视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ctv-news.png" group-title="港澳台",中视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ftv-news.png" group-title="港澳台",民视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 tvg-name="寰宇国际新闻" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="港澳台",寰宇国际新闻
+http://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1 tvg-name="寰宇台湾新闻" tvg-logo="http://www.stream-link.org/tv_logo/global-news.png" group-title="港澳台",寰宇台湾新闻
+http://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 tvg-name="三立财经新闻" tvg-logo="http://www.stream-link.org/tv_logo/set-finance.png" group-title="港澳台",三立财经新闻
+http://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="http://www.stream-link.org/tv_logo/set-news.png" group-title="港澳台",三立新闻
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 tvg-name="三立新闻+" tvg-logo="http://www.stream-link.org/tv_logo/set-news+.png" group-title="港澳台",三立新闻+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://www.stream-link.org/tv_logo/ttv-news.png" group-title="港澳台",台视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-news.png" group-title="港澳台",TVBS新闻
+http://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1 tvg-name="TVBS财经" tvg-logo="http://www.stream-link.org/tv_logo/tvbs.png" group-title="港澳台",TVBS财经
+http://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="港澳台",中天亚洲台
+http://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="http://www.stream-link.org/tv_logo/tvbs-asia.png" group-title="港澳台",TVBS亚洲台
+http://sc2022.stream-link.org/tv2306.php?id=t16
+#EXTINF:-1 tvg-name="民视HD" tvg-logo="http://www.stream-link.org/tv_logo/ftv.png" group-title="港澳台",民视HD
+http://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-1.png" group-title="港澳台",民视第一台
+http://sc2022.stream-link.org/tv2306.php?id=t18
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-tw.png" group-title="港澳台",民视台湾台
+http://sc2022.stream-link.org/tv2306.php?id=t19
+#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-zy.png" group-title="港澳台",民视综艺台
+http://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-yj.png" group-title="港澳台",民视影剧台
+http://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="http://www.stream-link.org/tv_logo/ftv-travel.png" group-title="港澳台",民视旅游台
+http://sc2022.stream-link.org/tv2306.php?id=t22
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="http://www.stream-link.org/tv_logo/set-tw.png" group-title="港澳台",三立台湾
+http://sc2022.stream-link.org/tv2306.php?id=t23
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="http://www.stream-link.org/tv_logo/set-dh.png" group-title="港澳台",三立都会
+http://sc2022.stream-link.org/tv2306.php?id=t24
+#EXTINF:-1 tvg-name="天才衝衝衝" tvg-logo="http://www.stream-link.org/tv_logo/cts-zy.png" group-title="港澳台",天才衝衝衝
+http://sc2022.stream-link.org/tv2306.php?id=t25
+#EXTINF:-1 tvg-name="东森yoyo" tvg-logo="http://www.stream-link.org/tv_logo/ebc-yoyo.png" group-title="港澳台",东森yoyo
+http://sc2022.stream-link.org/tv2306.php?id=t26
+#EXTINF:-1 group-title="港澳台",NHK WORLD
+http://103.112.191.9:880/LAOSAT1071.m3u8
+#EXTINF:-1 group-title="港澳台",澳门莲花
+http://103.112.191.9:880/LAOSAT1069.m3u8
+#EXTINF:-1 group-title="港澳台",DW News
+http://103.112.191.9:880/LAOSAT1072.m3u8
+#EXTINF:-1 group-title="港澳台",euro News
+http://103.112.191.9:880/LAOSAT1073.m3u8
+#EXTINF:-1 group-title="港澳台",今日亚洲
+http://103.112.191.9:880/LAOSAT1074.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB翡翠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/tvb.php?id=6&hq
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视HD
+rtmp://9sv2.mine.nu/sat/tv051
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视HD
+rtmp://9sv2.mine.nu/sat/tv071
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视HD
+rtmp://9sv2.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视HD
+rtmp://9sv2.mine.nu/sat/tv111
+#EXTINF:-1 tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://epg.112114.xyz/logo/TVBJ2.png" group-title="港澳台",TVB J2
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://epg.112114.xyz/logo/东森综合.png" group-title="港澳台",东森综合
+http://61.221.81.93:8078/hls/34/80/ebc.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="GAT中国特区",凤凰香港
+https://doc.733240.com/?id=800
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="GAT中国特区",凤凰资讯台
+https://doc.733240.com/?id=801
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="GAT中国特区",凤凰中文
+https://doc.733240.com/?id=802
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="GAT中国特区",凤凰卫视中文台
+https://doc.733240.com/?id=803
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="GAT中国特区",凤凰卫视资讯台
+https://doc.733240.com/?id=804
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="GAT中国特区",凤凰香港
+https://doc.733240.com/?id=805
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="GAT中国特区",中天新闻
+https://doc.733240.com/?id=806
+#EXTINF:-1 tvg-id="中天新闻循环" tvg-name="中天新闻循环" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="GAT中国特区",中天新闻循环
+https://doc.733240.com/?id=854
+#EXTINF:-1 tvg-id="无线新闻2" tvg-name="无线新闻2" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="GAT中国特区",无线新闻2
+https://doc.733240.com/?id=824
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="GAT中国特区",无线新闻
+https://doc.733240.com/?id=807
+#EXTINF:-1 tvg-id="翡翠台3" tvg-name="翡翠台3" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="GAT中国特区",翡翠台3
+https://doc.733240.com/?id=810
+#EXTINF:-1 tvg-id="翡翠台2" tvg-name="翡翠台2" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="GAT中国特区",翡翠台2
+https://doc.733240.com/?id=809
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="GAT中国特区",ViuTV
+https://doc.733240.com/?id=811
+#EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="GAT中国特区",ViuTV Six
+https://doc.733240.com/?id=826
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="GAT中国特区",J2
+https://doc.733240.com/?id=819
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="GAT中国特区",明珠台
+https://doc.733240.com/?id=820
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1.png" group-title="GAT中国特区",爱尔达体育1台
+https://doc.733240.com/?id=812
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="GAT中国特区",爱尔达体育2台
+https://doc.733240.com/?id=813
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="GAT中国特区",爱尔达体育3台
+https://doc.733240.com/?id=814
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="GAT中国特区",纬来体育台
+https://doc.733240.com/?id=815
+#EXTINF:-1 tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.xyz/logo/环球电视台.png" group-title="GAT中国特区",环球电视台
+https://doc.733240.com/?id=816
+#EXTINF:-1 tvg-id="TVB无线财体育经资讯台" tvg-name="TVB无线财体育经资讯台" tvg-logo="https://epg.112114.xyz/logo/TVB无线财体育经资讯台.png" group-title="GAT中国特区",TVB无线财体育经资讯台
+https://doc.733240.com/?id=817
+#EXTINF:-1 tvg-id="TVB无线财体育经资讯台2" tvg-name="TVB无线财体育经资讯台2" tvg-logo="https://epg.112114.xyz/logo/TVB无线财体育经资讯台.png" group-title="GAT中国特区",TVB无线财体育经资讯台2
+https://doc.733240.com/?id=825
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://epg.112114.xyz/logo/耀才财经.png" group-title="GAT中国特区",耀才财经
+https://doc.733240.com/?id=818
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="GAT中国特区",TVBS HD
+https://doc.733240.com/?id=821
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="GAT中国特区",TVBS News
+https://doc.733240.com/?id=822
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="GAT中国特区",TVBS NEWS 网络独家
+https://doc.733240.com/?id=845
+#EXTINF:-1 tvg-id="台湾启示录" tvg-name="台湾启示录" tvg-logo="https://epg.112114.xyz/logo/台湾启示录.png" group-title="GAT中国特区",台湾启示录
+https://doc.733240.com/?id=853
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="GAT中国特区",东森新闻
+https://doc.733240.com/?id=823
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞-" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="GAT中国特区",東森財經新聞
+rtmp://rtmp0528.733240.com/sat/tv571
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视-" tvg-logo="rtmps://epg.112114.xyz/logo/东森超视.png" group-title="GAT中国特区",东森超视台
+rtmp://rtmp0528.733240.com/sat/tv331
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台-" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="GAT中国特区",纬来日本台
+rtmp://rtmp0528.733240.com/sat/tv771
+#EXTINF:-1 tvg-id="纬来育乐台" tvg-name="纬来育乐台-" tvg-logo="rtmps://epg.112114.xyz/logo/纬来育乐台.png" group-title="GAT中国特区",纬来育乐台
+rtmp://rtmp0528.733240.com/sat/tv701
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE-" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="GAT中国特区",ELEVEN体育1
+rtmp://rtmp0528.733240.com/sat/tv731
+#EXTINF:-1 tvg-id="EVE" tvg-name="EVE-" tvg-logo="rtmps://epg.112114.xyz/logo/EVE.png" group-title="GAT中国特区",ELEVEN体育2
+rtmp://rtmp0528.733240.com/sat/tv741
+#EXTINF:-1 tvg-id="MOMO综合" tvg-name="MOMO综合-" tvg-logo="rtmps://epg.112114.xyz/logo/MOMO综合.png" group-title="GAT中国特区",MOMO综合
+rtmp://rtmp0528.733240.com/sat/tv761
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台-" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育3台.png" group-title="GAT中国特区",愛爾達體育3台
+rtmp://rtmp0528.733240.com/sat/md041
+#EXTINF:-1 tvg-id="波斯魅力台" tvg-name="波斯魅力台-" tvg-logo="rtmps://epg.112114.xyz/logo/波斯魅力台.png" group-title="GAT中国特区",波斯魅力台
+rtmp://rtmp0528.733240.com/sat/md051
+#EXTINF:-1 tvg-id="华视" tvg-name="华视-" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="GAT中国特区",华视
+rtmp://rtmp0528.733240.com/sat/tv111
+#EXTINF:-1 tvg-id="民视" tvg-name="民视-" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="GAT中国特区",民视
+rtmp://rtmp0528.733240.com/sat/tv051
+#EXTINF:-1 tvg-id="中视" tvg-name="中视-" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="GAT中国特区",中视
+rtmp://rtmp0528.733240.com/sat/tv091
+#EXTINF:-1 tvg-id="台视" tvg-name="台视-" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="GAT中国特区",台视
+rtmp://rtmp0528.733240.com/sat/tv071
+#EXTINF:-1 tvg-id="天映经典 " tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="GAT中国特区",天映经典
+https://doc.733240.com/?id=861
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="GAT中国特区",NOW新闻
+https://doc.733240.com/?id=808
+#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" tvg-logo="https://epg.112114.xyz/logo/HOY资讯台.png" group-title="GAT中国特区",HOY资讯台
+https://doc.733240.com/?id=827
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="GAT中国特区",HOY TV
+https://doc.733240.com/?id=828
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="GAT中国特区",中视新闻台
+https://doc.733240.com/?id=851
+#EXTINF:-1 tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="GAT中国特区",三立LIVE
+https://doc.733240.com/?id=849
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="GAT中国特区",台视新闻
+https://doc.733240.com/?id=852
+#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻 .png" group-title="GAT中国特区",镜新闻
+https://doc.733240.com/?id=855
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻-" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="GAT中国特区",寰宇新闻
+https://doc.733240.com/?id=856
+#EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="GAT中国特区",三立新闻台
+https://doc.733240.com/?id=857
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="GAT中国特区",民视新闻台
+https://doc.733240.com/?id=850
+#EXTINF:-1 tvg-id="RHK32" tvg-name="RHK32" tvg-logo="https://epg.112114.xyz/logo/RHK32.png" group-title="GAT中国特区",RHK32
+https://doc.733240.com/?id=858
+#EXTINF:-1 tvg-id="RHK31" tvg-name="RHK31" tvg-logo="https://epg.112114.xyz/logo/RHK31.png" group-title="GAT中国特区",RHK31
+https://doc.733240.com/?id=859
+#EXTINF:-1 tvg-id="香港有线18台" tvg-name="香港有线18台" tvg-logo="https://epg.112114.xyz/logo/香港有线18台.png" group-title="GAT中国特区",香港有线18台
+https://doc.733240.com/?id=860
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="GAT中国特区",NOW爆谷台
+https://doc.733240.com/?id=862
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="GAT中国特区",TVB星河
+https://doc.733240.com/?id=863
+#EXTINF:-1 tvg-id="TVB经典台" tvg-name="TVB经典台" tvg-logo="https://epg.112114.xyz/logo/TVB经典台.png" group-title="GAT中国特区",TVB经典台
+https://doc.733240.com/?id=878
+#EXTINF:-1 tvg-id="TVB华剧台" tvg-name="TVB华剧台" tvg-logo="https://epg.112114.xyz/logo/TVBdrama.png" group-title="GAT中国特区",TVB华剧台
+https://doc.733240.com/?id=879
+#EXTINF:-1 tvg-id="NOW华剧台" tvg-name="NOW华剧台" tvg-logo="https://epg.112114.xyz/logo/TVBdrama.png" group-title="GAT中国特区",NOW华剧台
+https://doc.733240.com/?id=880
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="GAT中国特区",国家地理
+https://doc.733240.com/?id=874
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://epg.112114.xyz/logo/国家地理野生.png" group-title="GAT中国特区",国家地理-野生频道
+https://doc.733240.com/?id=875
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="GAT中国特区",动物星球频道
+https://doc.733240.com/?id=876
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="GAT中国特区",美食星球
+https://doc.733240.com/?id=877
+#EXTINF:-1 tvg-id="網路流行音樂電台" tvg-name="網路流行音樂電台" group-title="GAT中国特区",網路流行音樂電台
+http://ytb.733240.com/live.m3u8?c=99
